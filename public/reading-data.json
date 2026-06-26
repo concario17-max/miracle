@@ -2,8 +2,8 @@
     "chapters": [
         {
             "id": "bodhi",
-            "chapterName": "기적수업 워크북 1부",
-            "title": "A Course in Miracles Workbook Part I",
+            "chapterName": "기적수업 워크북",
+            "title": "A Course in Miracles Workbook",
             "isGroup": true,
             "subchapters": [
                 {
@@ -11,7 +11,7 @@
                     "chapterName": "1부 (Part I)",
                     "title": "Workbook Part I",
                     "tocHeadings": [
-                        "Lessons"
+                        "Lessons 1 - 220"
                     ],
                     "paragraphs": [
                         {
@@ -1813,12 +1813,22 @@
                                 "english": "There is no peace except the peace of God",
                                 "korean": "신의 평화 외에 다른 평화는 존재하지 않는다."
                             }
-                        },
+                        }
+                    ]
+                },
+                {
+                    "id": "miracle.2",
+                    "chapterName": "2부 (Part II)",
+                    "title": "Workbook Part II",
+                    "tocHeadings": [
+                        "Lessons 221 - 365"
+                    ],
+                    "paragraphs": [
                         {
-                            "id": "miracle.1.221",
+                            "id": "miracle.2.221",
                             "title": "Lesson 221",
                             "paragraphNumber": 221,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1827,10 +1837,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.222",
+                            "id": "miracle.2.222",
                             "title": "Lesson 222",
                             "paragraphNumber": 222,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1839,10 +1849,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.223",
+                            "id": "miracle.2.223",
                             "title": "Lesson 223",
                             "paragraphNumber": 223,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1851,10 +1861,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.224",
+                            "id": "miracle.2.224",
                             "title": "Lesson 224",
                             "paragraphNumber": 224,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1863,10 +1873,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.225",
+                            "id": "miracle.2.225",
                             "title": "Lesson 225",
                             "paragraphNumber": 225,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1875,10 +1885,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.226",
+                            "id": "miracle.2.226",
                             "title": "Lesson 226",
                             "paragraphNumber": 226,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1887,10 +1897,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.227",
+                            "id": "miracle.2.227",
                             "title": "Lesson 227",
                             "paragraphNumber": 227,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1899,10 +1909,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.228",
+                            "id": "miracle.2.228",
                             "title": "Lesson 228",
                             "paragraphNumber": 228,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1911,10 +1921,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.229",
+                            "id": "miracle.2.229",
                             "title": "Lesson 229",
                             "paragraphNumber": 229,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1923,10 +1933,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.230",
+                            "id": "miracle.2.230",
                             "title": "Lesson 230",
                             "paragraphNumber": 230,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1935,10 +1945,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.231",
+                            "id": "miracle.2.231",
                             "title": "Lesson 231",
                             "paragraphNumber": 231,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1947,10 +1957,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.232",
+                            "id": "miracle.2.232",
                             "title": "Lesson 232",
                             "paragraphNumber": 232,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1959,10 +1969,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.233",
+                            "id": "miracle.2.233",
                             "title": "Lesson 233",
                             "paragraphNumber": 233,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1971,10 +1981,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.234",
+                            "id": "miracle.2.234",
                             "title": "Lesson 234",
                             "paragraphNumber": 234,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1983,10 +1993,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.235",
+                            "id": "miracle.2.235",
                             "title": "Lesson 235",
                             "paragraphNumber": 235,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -1995,10 +2005,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.236",
+                            "id": "miracle.2.236",
                             "title": "Lesson 236",
                             "paragraphNumber": 236,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2007,10 +2017,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.237",
+                            "id": "miracle.2.237",
                             "title": "Lesson 237",
                             "paragraphNumber": 237,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2019,10 +2029,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.238",
+                            "id": "miracle.2.238",
                             "title": "Lesson 238",
                             "paragraphNumber": 238,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2031,10 +2041,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.239",
+                            "id": "miracle.2.239",
                             "title": "Lesson 239",
                             "paragraphNumber": 239,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2043,10 +2053,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.240",
+                            "id": "miracle.2.240",
                             "title": "Lesson 240",
                             "paragraphNumber": 240,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2055,10 +2065,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.241",
+                            "id": "miracle.2.241",
                             "title": "Lesson 241",
                             "paragraphNumber": 241,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2067,10 +2077,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.242",
+                            "id": "miracle.2.242",
                             "title": "Lesson 242",
                             "paragraphNumber": 242,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2079,10 +2089,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.243",
+                            "id": "miracle.2.243",
                             "title": "Lesson 243",
                             "paragraphNumber": 243,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2091,10 +2101,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.244",
+                            "id": "miracle.2.244",
                             "title": "Lesson 244",
                             "paragraphNumber": 244,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2103,10 +2113,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.245",
+                            "id": "miracle.2.245",
                             "title": "Lesson 245",
                             "paragraphNumber": 245,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2115,10 +2125,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.246",
+                            "id": "miracle.2.246",
                             "title": "Lesson 246",
                             "paragraphNumber": 246,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2127,10 +2137,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.247",
+                            "id": "miracle.2.247",
                             "title": "Lesson 247",
                             "paragraphNumber": 247,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2139,10 +2149,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.248",
+                            "id": "miracle.2.248",
                             "title": "Lesson 248",
                             "paragraphNumber": 248,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2151,10 +2161,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.249",
+                            "id": "miracle.2.249",
                             "title": "Lesson 249",
                             "paragraphNumber": 249,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2163,10 +2173,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.250",
+                            "id": "miracle.2.250",
                             "title": "Lesson 250",
                             "paragraphNumber": 250,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2175,10 +2185,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.251",
+                            "id": "miracle.2.251",
                             "title": "Lesson 251",
                             "paragraphNumber": 251,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2187,10 +2197,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.252",
+                            "id": "miracle.2.252",
                             "title": "Lesson 252",
                             "paragraphNumber": 252,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2199,10 +2209,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.253",
+                            "id": "miracle.2.253",
                             "title": "Lesson 253",
                             "paragraphNumber": 253,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2211,10 +2221,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.254",
+                            "id": "miracle.2.254",
                             "title": "Lesson 254",
                             "paragraphNumber": 254,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2223,10 +2233,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.255",
+                            "id": "miracle.2.255",
                             "title": "Lesson 255",
                             "paragraphNumber": 255,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2235,10 +2245,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.256",
+                            "id": "miracle.2.256",
                             "title": "Lesson 256",
                             "paragraphNumber": 256,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2247,10 +2257,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.257",
+                            "id": "miracle.2.257",
                             "title": "Lesson 257",
                             "paragraphNumber": 257,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2259,10 +2269,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.258",
+                            "id": "miracle.2.258",
                             "title": "Lesson 258",
                             "paragraphNumber": 258,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2271,10 +2281,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.259",
+                            "id": "miracle.2.259",
                             "title": "Lesson 259",
                             "paragraphNumber": 259,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2283,10 +2293,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.260",
+                            "id": "miracle.2.260",
                             "title": "Lesson 260",
                             "paragraphNumber": 260,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2295,10 +2305,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.261",
+                            "id": "miracle.2.261",
                             "title": "Lesson 261",
                             "paragraphNumber": 261,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2307,10 +2317,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.262",
+                            "id": "miracle.2.262",
                             "title": "Lesson 262",
                             "paragraphNumber": 262,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2319,10 +2329,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.263",
+                            "id": "miracle.2.263",
                             "title": "Lesson 263",
                             "paragraphNumber": 263,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2331,10 +2341,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.264",
+                            "id": "miracle.2.264",
                             "title": "Lesson 264",
                             "paragraphNumber": 264,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2343,10 +2353,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.265",
+                            "id": "miracle.2.265",
                             "title": "Lesson 265",
                             "paragraphNumber": 265,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2355,10 +2365,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.266",
+                            "id": "miracle.2.266",
                             "title": "Lesson 266",
                             "paragraphNumber": 266,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2367,10 +2377,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.267",
+                            "id": "miracle.2.267",
                             "title": "Lesson 267",
                             "paragraphNumber": 267,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2379,10 +2389,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.268",
+                            "id": "miracle.2.268",
                             "title": "Lesson 268",
                             "paragraphNumber": 268,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2391,10 +2401,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.269",
+                            "id": "miracle.2.269",
                             "title": "Lesson 269",
                             "paragraphNumber": 269,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2403,10 +2413,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.270",
+                            "id": "miracle.2.270",
                             "title": "Lesson 270",
                             "paragraphNumber": 270,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2415,10 +2425,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.271",
+                            "id": "miracle.2.271",
                             "title": "Lesson 271",
                             "paragraphNumber": 271,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2427,10 +2437,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.272",
+                            "id": "miracle.2.272",
                             "title": "Lesson 272",
                             "paragraphNumber": 272,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2439,10 +2449,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.273",
+                            "id": "miracle.2.273",
                             "title": "Lesson 273",
                             "paragraphNumber": 273,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2451,10 +2461,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.274",
+                            "id": "miracle.2.274",
                             "title": "Lesson 274",
                             "paragraphNumber": 274,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2463,10 +2473,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.275",
+                            "id": "miracle.2.275",
                             "title": "Lesson 275",
                             "paragraphNumber": 275,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2475,10 +2485,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.276",
+                            "id": "miracle.2.276",
                             "title": "Lesson 276",
                             "paragraphNumber": 276,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2487,10 +2497,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.277",
+                            "id": "miracle.2.277",
                             "title": "Lesson 277",
                             "paragraphNumber": 277,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2499,10 +2509,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.278",
+                            "id": "miracle.2.278",
                             "title": "Lesson 278",
                             "paragraphNumber": 278,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2511,10 +2521,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.279",
+                            "id": "miracle.2.279",
                             "title": "Lesson 279",
                             "paragraphNumber": 279,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2523,10 +2533,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.280",
+                            "id": "miracle.2.280",
                             "title": "Lesson 280",
                             "paragraphNumber": 280,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2535,10 +2545,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.281",
+                            "id": "miracle.2.281",
                             "title": "Lesson 281",
                             "paragraphNumber": 281,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2547,10 +2557,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.282",
+                            "id": "miracle.2.282",
                             "title": "Lesson 282",
                             "paragraphNumber": 282,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2559,10 +2569,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.283",
+                            "id": "miracle.2.283",
                             "title": "Lesson 283",
                             "paragraphNumber": 283,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2571,10 +2581,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.284",
+                            "id": "miracle.2.284",
                             "title": "Lesson 284",
                             "paragraphNumber": 284,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2583,10 +2593,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.285",
+                            "id": "miracle.2.285",
                             "title": "Lesson 285",
                             "paragraphNumber": 285,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2595,10 +2605,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.286",
+                            "id": "miracle.2.286",
                             "title": "Lesson 286",
                             "paragraphNumber": 286,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2607,10 +2617,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.287",
+                            "id": "miracle.2.287",
                             "title": "Lesson 287",
                             "paragraphNumber": 287,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2619,10 +2629,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.288",
+                            "id": "miracle.2.288",
                             "title": "Lesson 288",
                             "paragraphNumber": 288,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2631,10 +2641,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.289",
+                            "id": "miracle.2.289",
                             "title": "Lesson 289",
                             "paragraphNumber": 289,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2643,10 +2653,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.290",
+                            "id": "miracle.2.290",
                             "title": "Lesson 290",
                             "paragraphNumber": 290,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2655,10 +2665,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.291",
+                            "id": "miracle.2.291",
                             "title": "Lesson 291",
                             "paragraphNumber": 291,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2667,10 +2677,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.292",
+                            "id": "miracle.2.292",
                             "title": "Lesson 292",
                             "paragraphNumber": 292,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2679,10 +2689,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.293",
+                            "id": "miracle.2.293",
                             "title": "Lesson 293",
                             "paragraphNumber": 293,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2691,10 +2701,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.294",
+                            "id": "miracle.2.294",
                             "title": "Lesson 294",
                             "paragraphNumber": 294,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2703,10 +2713,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.295",
+                            "id": "miracle.2.295",
                             "title": "Lesson 295",
                             "paragraphNumber": 295,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2715,10 +2725,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.296",
+                            "id": "miracle.2.296",
                             "title": "Lesson 296",
                             "paragraphNumber": 296,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2727,10 +2737,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.297",
+                            "id": "miracle.2.297",
                             "title": "Lesson 297",
                             "paragraphNumber": 297,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2739,10 +2749,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.298",
+                            "id": "miracle.2.298",
                             "title": "Lesson 298",
                             "paragraphNumber": 298,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2751,10 +2761,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.299",
+                            "id": "miracle.2.299",
                             "title": "Lesson 299",
                             "paragraphNumber": 299,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2763,10 +2773,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.300",
+                            "id": "miracle.2.300",
                             "title": "Lesson 300",
                             "paragraphNumber": 300,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2775,10 +2785,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.301",
+                            "id": "miracle.2.301",
                             "title": "Lesson 301",
                             "paragraphNumber": 301,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2787,10 +2797,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.302",
+                            "id": "miracle.2.302",
                             "title": "Lesson 302",
                             "paragraphNumber": 302,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2799,10 +2809,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.303",
+                            "id": "miracle.2.303",
                             "title": "Lesson 303",
                             "paragraphNumber": 303,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2811,10 +2821,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.304",
+                            "id": "miracle.2.304",
                             "title": "Lesson 304",
                             "paragraphNumber": 304,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2823,10 +2833,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.305",
+                            "id": "miracle.2.305",
                             "title": "Lesson 305",
                             "paragraphNumber": 305,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2835,10 +2845,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.306",
+                            "id": "miracle.2.306",
                             "title": "Lesson 306",
                             "paragraphNumber": 306,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2847,10 +2857,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.307",
+                            "id": "miracle.2.307",
                             "title": "Lesson 307",
                             "paragraphNumber": 307,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2859,10 +2869,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.308",
+                            "id": "miracle.2.308",
                             "title": "Lesson 308",
                             "paragraphNumber": 308,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2871,10 +2881,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.309",
+                            "id": "miracle.2.309",
                             "title": "Lesson 309",
                             "paragraphNumber": 309,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2883,10 +2893,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.310",
+                            "id": "miracle.2.310",
                             "title": "Lesson 310",
                             "paragraphNumber": 310,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2895,10 +2905,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.311",
+                            "id": "miracle.2.311",
                             "title": "Lesson 311",
                             "paragraphNumber": 311,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2907,10 +2917,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.312",
+                            "id": "miracle.2.312",
                             "title": "Lesson 312",
                             "paragraphNumber": 312,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2919,10 +2929,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.313",
+                            "id": "miracle.2.313",
                             "title": "Lesson 313",
                             "paragraphNumber": 313,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2931,10 +2941,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.314",
+                            "id": "miracle.2.314",
                             "title": "Lesson 314",
                             "paragraphNumber": 314,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2943,10 +2953,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.315",
+                            "id": "miracle.2.315",
                             "title": "Lesson 315",
                             "paragraphNumber": 315,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2955,10 +2965,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.316",
+                            "id": "miracle.2.316",
                             "title": "Lesson 316",
                             "paragraphNumber": 316,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2967,10 +2977,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.317",
+                            "id": "miracle.2.317",
                             "title": "Lesson 317",
                             "paragraphNumber": 317,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2979,10 +2989,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.318",
+                            "id": "miracle.2.318",
                             "title": "Lesson 318",
                             "paragraphNumber": 318,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -2991,10 +3001,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.319",
+                            "id": "miracle.2.319",
                             "title": "Lesson 319",
                             "paragraphNumber": 319,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3003,10 +3013,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.320",
+                            "id": "miracle.2.320",
                             "title": "Lesson 320",
                             "paragraphNumber": 320,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3015,10 +3025,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.321",
+                            "id": "miracle.2.321",
                             "title": "Lesson 321",
                             "paragraphNumber": 321,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3027,10 +3037,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.322",
+                            "id": "miracle.2.322",
                             "title": "Lesson 322",
                             "paragraphNumber": 322,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3039,10 +3049,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.323",
+                            "id": "miracle.2.323",
                             "title": "Lesson 323",
                             "paragraphNumber": 323,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3051,10 +3061,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.324",
+                            "id": "miracle.2.324",
                             "title": "Lesson 324",
                             "paragraphNumber": 324,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3063,10 +3073,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.325",
+                            "id": "miracle.2.325",
                             "title": "Lesson 325",
                             "paragraphNumber": 325,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3075,10 +3085,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.326",
+                            "id": "miracle.2.326",
                             "title": "Lesson 326",
                             "paragraphNumber": 326,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3087,10 +3097,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.327",
+                            "id": "miracle.2.327",
                             "title": "Lesson 327",
                             "paragraphNumber": 327,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3099,10 +3109,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.328",
+                            "id": "miracle.2.328",
                             "title": "Lesson 328",
                             "paragraphNumber": 328,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3111,10 +3121,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.329",
+                            "id": "miracle.2.329",
                             "title": "Lesson 329",
                             "paragraphNumber": 329,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3123,10 +3133,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.330",
+                            "id": "miracle.2.330",
                             "title": "Lesson 330",
                             "paragraphNumber": 330,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3135,10 +3145,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.331",
+                            "id": "miracle.2.331",
                             "title": "Lesson 331",
                             "paragraphNumber": 331,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3147,10 +3157,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.332",
+                            "id": "miracle.2.332",
                             "title": "Lesson 332",
                             "paragraphNumber": 332,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3159,10 +3169,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.333",
+                            "id": "miracle.2.333",
                             "title": "Lesson 333",
                             "paragraphNumber": 333,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3171,10 +3181,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.334",
+                            "id": "miracle.2.334",
                             "title": "Lesson 334",
                             "paragraphNumber": 334,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3183,10 +3193,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.335",
+                            "id": "miracle.2.335",
                             "title": "Lesson 335",
                             "paragraphNumber": 335,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3195,10 +3205,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.336",
+                            "id": "miracle.2.336",
                             "title": "Lesson 336",
                             "paragraphNumber": 336,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3207,10 +3217,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.337",
+                            "id": "miracle.2.337",
                             "title": "Lesson 337",
                             "paragraphNumber": 337,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3219,10 +3229,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.338",
+                            "id": "miracle.2.338",
                             "title": "Lesson 338",
                             "paragraphNumber": 338,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3231,10 +3241,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.339",
+                            "id": "miracle.2.339",
                             "title": "Lesson 339",
                             "paragraphNumber": 339,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3243,10 +3253,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.340",
+                            "id": "miracle.2.340",
                             "title": "Lesson 340",
                             "paragraphNumber": 340,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3255,10 +3265,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.341",
+                            "id": "miracle.2.341",
                             "title": "Lesson 341",
                             "paragraphNumber": 341,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3267,10 +3277,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.342",
+                            "id": "miracle.2.342",
                             "title": "Lesson 342",
                             "paragraphNumber": 342,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3279,10 +3289,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.343",
+                            "id": "miracle.2.343",
                             "title": "Lesson 343",
                             "paragraphNumber": 343,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3291,10 +3301,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.344",
+                            "id": "miracle.2.344",
                             "title": "Lesson 344",
                             "paragraphNumber": 344,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3303,10 +3313,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.345",
+                            "id": "miracle.2.345",
                             "title": "Lesson 345",
                             "paragraphNumber": 345,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3315,10 +3325,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.346",
+                            "id": "miracle.2.346",
                             "title": "Lesson 346",
                             "paragraphNumber": 346,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3327,10 +3337,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.347",
+                            "id": "miracle.2.347",
                             "title": "Lesson 347",
                             "paragraphNumber": 347,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3339,10 +3349,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.348",
+                            "id": "miracle.2.348",
                             "title": "Lesson 348",
                             "paragraphNumber": 348,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3351,10 +3361,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.349",
+                            "id": "miracle.2.349",
                             "title": "Lesson 349",
                             "paragraphNumber": 349,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3363,10 +3373,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.350",
+                            "id": "miracle.2.350",
                             "title": "Lesson 350",
                             "paragraphNumber": 350,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3375,10 +3385,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.351",
+                            "id": "miracle.2.351",
                             "title": "Lesson 351",
                             "paragraphNumber": 351,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3387,10 +3397,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.352",
+                            "id": "miracle.2.352",
                             "title": "Lesson 352",
                             "paragraphNumber": 352,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3399,10 +3409,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.353",
+                            "id": "miracle.2.353",
                             "title": "Lesson 353",
                             "paragraphNumber": 353,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3411,10 +3421,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.354",
+                            "id": "miracle.2.354",
                             "title": "Lesson 354",
                             "paragraphNumber": 354,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3423,10 +3433,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.355",
+                            "id": "miracle.2.355",
                             "title": "Lesson 355",
                             "paragraphNumber": 355,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3435,10 +3445,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.356",
+                            "id": "miracle.2.356",
                             "title": "Lesson 356",
                             "paragraphNumber": 356,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3447,10 +3457,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.357",
+                            "id": "miracle.2.357",
                             "title": "Lesson 357",
                             "paragraphNumber": 357,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3459,10 +3469,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.358",
+                            "id": "miracle.2.358",
                             "title": "Lesson 358",
                             "paragraphNumber": 358,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3471,10 +3481,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.359",
+                            "id": "miracle.2.359",
                             "title": "Lesson 359",
                             "paragraphNumber": 359,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3483,10 +3493,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.360",
+                            "id": "miracle.2.360",
                             "title": "Lesson 360",
                             "paragraphNumber": 360,
-                            "chapterTitle": "Workbook Part I",
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
@@ -3495,10 +3505,10 @@
                             }
                         },
                         {
-                            "id": "miracle.1.361-365",
+                            "id": "miracle.2.361-365",
                             "title": "Lesson 361-365",
-                            "paragraphNumber": "361-365",
-                            "chapterTitle": "Workbook Part I",
+                            "paragraphNumber": 221,
+                            "chapterTitle": "Workbook Part II",
                             "text": {
                                 "tibetan": "",
                                 "pronunciation": "",
