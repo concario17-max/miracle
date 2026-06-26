@@ -1,0 +1,3514 @@
+{
+    "chapters": [
+        {
+            "id": "bodhi",
+            "chapterName": "기적수업 워크북 1부",
+            "title": "A Course in Miracles Workbook Part I",
+            "isGroup": true,
+            "subchapters": [
+                {
+                    "id": "miracle.1",
+                    "chapterName": "1부 (Part I)",
+                    "title": "Workbook Part I",
+                    "tocHeadings": [
+                        "Lessons"
+                    ],
+                    "paragraphs": [
+                        {
+                            "id": "miracle.1.1",
+                            "title": "Lesson 1",
+                            "paragraphNumber": 1,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Nothing I see in this room [on this street, from this window, in this place] means anything",
+                                "korean": "이 방에서 [이 거리에서, 이 창을 통해, 이 장소에서] 내가 보는 것은 아무 의미도 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.2",
+                            "title": "Lesson 2",
+                            "paragraphNumber": 2,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have given everything I see in this room [on this street, from this window, in this place] all the meaning that it has for me",
+                                "korean": "이 방에서 [이 거리에서, 이 창을 통해, 이 장소에서] 내가 보는 모든 것의 의미는 전부 내가 부여한 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.3",
+                            "title": "Lesson 3",
+                            "paragraphNumber": 3,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I do not understand anything I see in this room [on this street, from this window, in this place]",
+                                "korean": "이 방에서 [이 거리에서, 이 창을 통해, 이 장소에서] 내가 보는 무엇도 나는 이해하지 못하고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.4",
+                            "title": "Lesson 4",
+                            "paragraphNumber": 4,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "These thoughts do not mean anything. They are like the things I see in this room [on this street, from this window, in this place]",
+                                "korean": "이 생각들은 아무 의미도 없다. 그것은 그저 이 방에서 [이 거리에서, 이 창을 통해, 이 장소에서] 내가 보는 대상과 같다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.5",
+                            "title": "Lesson 5",
+                            "paragraphNumber": 5,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am never upset for the reason I think",
+                                "korean": "나는 결코 내가 지금 생각하는 그 이유로 속상한 것이 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.6",
+                            "title": "Lesson 6",
+                            "paragraphNumber": 6,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am upset because I see something that is not there",
+                                "korean": "내가 속상한 이유는 지금 거기에 없는 것을 보고 있기 때문이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.7",
+                            "title": "Lesson 7",
+                            "paragraphNumber": 7,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I see only the past",
+                                "korean": "나는 오직 과거만 본다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.8",
+                            "title": "Lesson 8",
+                            "paragraphNumber": 8,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My mind is preoccupied with past thoughts",
+                                "korean": "나의 정신은 과거의 생각들에 사로잡혀 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.9",
+                            "title": "Lesson 9",
+                            "paragraphNumber": 9,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I see nothing as it is now",
+                                "korean": "나는 아무것도 지금 있는 그대로 보고 있지 못하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.10",
+                            "title": "Lesson 10",
+                            "paragraphNumber": 10,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My thoughts do not mean anything",
+                                "korean": "내 생각들은 아무 의미도 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.11",
+                            "title": "Lesson 11",
+                            "paragraphNumber": 11,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My meaningless thoughts are showing me a meaningless world",
+                                "korean": "내 무의미한 생각들은 무의미한 세상을 내게 보여준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.12",
+                            "title": "Lesson 12",
+                            "paragraphNumber": 12,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am upset because I see a meaningless world",
+                                "korean": "내가 속상한 것은 무의미한 세상을 보기 때문이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.13",
+                            "title": "Lesson 13",
+                            "paragraphNumber": 13,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "A meaningless world engenders fear",
+                                "korean": "무의미한 세상이 두려움을 일으킨다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.14",
+                            "title": "Lesson 14",
+                            "paragraphNumber": 14,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God did not create a meaningless world",
+                                "korean": "신은 무의미한 세상을 창조한 적이 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.15",
+                            "title": "Lesson 15",
+                            "paragraphNumber": 15,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My thoughts are images that I have made",
+                                "korean": "내 생각들은 내가 만들어낸 이미지들이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.16",
+                            "title": "Lesson 16",
+                            "paragraphNumber": 16,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have no neutral thoughts",
+                                "korean": "나는 중립적인 생각들을 갖고 있지 못하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.17",
+                            "title": "Lesson 17",
+                            "paragraphNumber": 17,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I see no neutral things",
+                                "korean": "나는 중립적인 것은 아무것도 보지 못한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.18",
+                            "title": "Lesson 18",
+                            "paragraphNumber": 18,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am not alone in experiencing the effects of my seeing",
+                                "korean": "내 바라봄의 효과를 체험하는 것은 나 혼자만이 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.19",
+                            "title": "Lesson 19",
+                            "paragraphNumber": 19,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am not alone in experiencing the effects of my thoughts",
+                                "korean": "내 생각들의 효과를 경험하는 것은 나 혼자만이 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.20",
+                            "title": "Lesson 20",
+                            "paragraphNumber": 20,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am determined to see",
+                                "korean": "나는 볼 것을 결심한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.21",
+                            "title": "Lesson 21",
+                            "paragraphNumber": 21,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am determined to see things differently",
+                                "korean": "나는 대상들을 다르게 보겠다고 결심한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.22",
+                            "title": "Lesson 22",
+                            "paragraphNumber": 22,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "What I see is a form of vengeance",
+                                "korean": "내가 보는 것은 복수의 한 형식이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.23",
+                            "title": "Lesson 23",
+                            "paragraphNumber": 23,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can escape from the world I see by giving up attack thoughts",
+                                "korean": "내가 공격적 생각들을 내려놓으면 내가 보는 세상에서 빠져나올 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.24",
+                            "title": "Lesson 24",
+                            "paragraphNumber": 24,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I do not perceive my own best interests",
+                                "korean": "나에게 최선의 이익이 무엇인지 나는 지각하지 못한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.25",
+                            "title": "Lesson 25",
+                            "paragraphNumber": 25,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I do not know what anything is for",
+                                "korean": "나는 어떤 것이든 그것의 참 목적을 알지 못한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.26",
+                            "title": "Lesson 26",
+                            "paragraphNumber": 26,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Myattackthoughts are attacking my invulnerability",
+                                "korean": "나의 공격적 생각이 나의 불가침성을 공격한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.27",
+                            "title": "Lesson 27",
+                            "paragraphNumber": 27,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Above all else I want to see",
+                                "korean": "다른 무엇보다도 나는 보기를 원한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.28",
+                            "title": "Lesson 28",
+                            "paragraphNumber": 28,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Above all else I want to see things differently",
+                                "korean": "다른 무엇보다도 나는 다르게 보기를 원한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.29",
+                            "title": "Lesson 29",
+                            "paragraphNumber": 29,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is in everything I see",
+                                "korean": "내가 보는 모든 것 안에 신이 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.30",
+                            "title": "Lesson 30",
+                            "paragraphNumber": 30,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is in everything I see because God is in my mind",
+                                "korean": "신이 내 정신 안에 있으니 내가 보는 모든 것 안에 신이 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.31",
+                            "title": "Lesson 31",
+                            "paragraphNumber": 31,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am not the victim of the world I see",
+                                "korean": "나는 내가 보는 세상 속에서 피해자가 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.32",
+                            "title": "Lesson 32",
+                            "paragraphNumber": 32,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have invented the world I see",
+                                "korean": "내가 보는 세상은 내가 지어낸 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.33",
+                            "title": "Lesson 33",
+                            "paragraphNumber": 33,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is another way of looking at the world",
+                                "korean": "세상을 바라보는 다른 방식이 존재한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.34",
+                            "title": "Lesson 34",
+                            "paragraphNumber": 34,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I could see peace instead of this",
+                                "korean": "나는 이것 대신 평화를 볼 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.35",
+                            "title": "Lesson 35",
+                            "paragraphNumber": 35,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My mind is part of God's. I am very holy",
+                                "korean": "나의 정신은 신의 일부다. 나는 매우 거룩하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.36",
+                            "title": "Lesson 36",
+                            "paragraphNumber": 36,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holiness envelops everything I see",
+                                "korean": "내 거룩함이 내가 보는 모든 것을 감싼다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.37",
+                            "title": "Lesson 37",
+                            "paragraphNumber": 37,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holiness blesses the world",
+                                "korean": "내 거룩함이 세상을 축복한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.38",
+                            "title": "Lesson 38",
+                            "paragraphNumber": 38,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is nothing my holiness cannot do",
+                                "korean": "내 거룩함으로 할 수 없는 것은 아무것도 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.39",
+                            "title": "Lesson 39",
+                            "paragraphNumber": 39,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holiness is my salvation",
+                                "korean": "나의 거룩함이 나의 구원이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.40",
+                            "title": "Lesson 40",
+                            "paragraphNumber": 40,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am blessed as a Son of God",
+                                "korean": "나는 신의 아들로서 축복받았다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.41",
+                            "title": "Lesson 41",
+                            "paragraphNumber": 41,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God goes with me wherever I go",
+                                "korean": "신께서 내가 어디를 가든 함께 하신다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.42",
+                            "title": "Lesson 42",
+                            "paragraphNumber": 42,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my strength. Vision is His gift",
+                                "korean": "신은 나의 힘이고, 비전은 그의 선물이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.43",
+                            "title": "Lesson 43",
+                            "paragraphNumber": 43,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my Source. I cannot see apart from Him",
+                                "korean": "신은 나의 근원이다. 나는 신과 별개로 떨어져 보지 못한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.44",
+                            "title": "Lesson 44",
+                            "paragraphNumber": 44,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is the light in which I see",
+                                "korean": "신은 나를 볼 수 있게 해주는 빛이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.45",
+                            "title": "Lesson 45",
+                            "paragraphNumber": 45,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is the Mind with which I think",
+                                "korean": "신은 나를 생각할 수 있게 해주는 정신이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.46",
+                            "title": "Lesson 46",
+                            "paragraphNumber": 46,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is the Love in which I forgive",
+                                "korean": "신은 나를 용서할 수 있게 해주는 사랑이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.47",
+                            "title": "Lesson 47",
+                            "paragraphNumber": 47,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is the strength in which I trust",
+                                "korean": "신은 내가 믿고 의지하는 힘이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.48",
+                            "title": "Lesson 48",
+                            "paragraphNumber": 48,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is nothing to fear",
+                                "korean": "두려워할 것은 아무것도 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.49",
+                            "title": "Lesson 49",
+                            "paragraphNumber": 49,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God's Voice speaks to me all through the day",
+                                "korean": "신의 음성은 하루 종일 내게 말씀하신다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.50",
+                            "title": "Lesson 50",
+                            "paragraphNumber": 50,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am sustained by the Love of God",
+                                "korean": "나는 신의 사랑에 의해 유지된다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.61",
+                            "title": "Lesson 61",
+                            "paragraphNumber": 61,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am the light of the world",
+                                "korean": "나는 세상의 빛이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.62",
+                            "title": "Lesson 62",
+                            "paragraphNumber": 62,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness is my function as the light of the world",
+                                "korean": "용서는 세상의 빛인 나의 역할이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.63",
+                            "title": "Lesson 63",
+                            "paragraphNumber": 63,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The light of the world brings peace to every mind through my forgiveness",
+                                "korean": "세상의 빛은 나의 용서를 통해 모든 정신에 평화를 안겨준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.64",
+                            "title": "Lesson 64",
+                            "paragraphNumber": 64,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me not forget my function",
+                                "korean": "내 역할을 잊지 않게 해주소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.65",
+                            "title": "Lesson 65",
+                            "paragraphNumber": 65,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My only function is the one God gave me",
+                                "korean": "나의 유일한 역할은 신이 주신 그것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.66",
+                            "title": "Lesson 66",
+                            "paragraphNumber": 66,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My happiness and my function are one",
+                                "korean": "나의 행복과 나의 역할은 하나다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.67",
+                            "title": "Lesson 67",
+                            "paragraphNumber": 67,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Love created me like itself",
+                                "korean": "사랑은 나를 그 자신과 같게 창조했다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.68",
+                            "title": "Lesson 68",
+                            "paragraphNumber": 68,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Love holds no grievances",
+                                "korean": "사랑은 불만을 품지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.69",
+                            "title": "Lesson 69",
+                            "paragraphNumber": 69,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My grievances hide the light of the world in me",
+                                "korean": "내 불만이 내 안에 있는 세상의 빛을 감춘다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.70",
+                            "title": "Lesson 70",
+                            "paragraphNumber": 70,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My salvation comes from me",
+                                "korean": "나의 구원은 나 자신으로부터 온다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.71",
+                            "title": "Lesson 71",
+                            "paragraphNumber": 71,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Only God's plan for salvation will work",
+                                "korean": "오직 신의 구원 계획만이 실현될 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.72",
+                            "title": "Lesson 72",
+                            "paragraphNumber": 72,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Holding grievances is an attack on God's plan for salvation",
+                                "korean": "불만을 품는 것은 신의 구원 계획을 공격하는 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.73",
+                            "title": "Lesson 73",
+                            "paragraphNumber": 73,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will there be light",
+                                "korean": "“빛이 있으라”가 내 의지다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.74",
+                            "title": "Lesson 74",
+                            "paragraphNumber": 74,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no will but God's",
+                                "korean": "오직 신의 의지 외엔 아무것도 존재하지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.75",
+                            "title": "Lesson 75",
+                            "paragraphNumber": 75,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The light has come",
+                                "korean": "빛이 왔노라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.76",
+                            "title": "Lesson 76",
+                            "paragraphNumber": 76,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am under no laws but God's",
+                                "korean": "나는 오직 신의 법칙 하에만 존재한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.77",
+                            "title": "Lesson 77",
+                            "paragraphNumber": 77,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am entitled to miracles",
+                                "korean": "나는 기적에 대한 권리를 부여받았다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.78",
+                            "title": "Lesson 78",
+                            "paragraphNumber": 78,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let miracles replace all grievances",
+                                "korean": "모든 불만이 기적으로 바뀌게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.79",
+                            "title": "Lesson 79",
+                            "paragraphNumber": 79,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me recognize the problem so it can be solved",
+                                "korean": "저로 하여금 문제를 바로 알게 하사 해결되게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.80",
+                            "title": "Lesson 80",
+                            "paragraphNumber": 80,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me recognize my problems have been solved",
+                                "korean": "저로 하여금 문제들이 이미 해결되었음을 바로 알게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.91",
+                            "title": "Lesson 91",
+                            "paragraphNumber": 91,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Miracles are seen in light",
+                                "korean": "기적은 빛 속에서 보인다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.92",
+                            "title": "Lesson 92",
+                            "paragraphNumber": 92,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Miracles are seen in light, and light and strength are one",
+                                "korean": "기적은 빛 속에서 보이며, 빛과 힘은 같은 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.93",
+                            "title": "Lesson 93",
+                            "paragraphNumber": 93,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Light and joy and peace abide in me",
+                                "korean": "빛과 기쁨과 평화가 내 안에 함께 산다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.94",
+                            "title": "Lesson 94",
+                            "paragraphNumber": 94,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am as God created me",
+                                "korean": "나는 신이 창조하신 그대로다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.95",
+                            "title": "Lesson 95",
+                            "paragraphNumber": 95,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am one Self, united with my Creator",
+                                "korean": "나는 내 창조주와 연합되어 있는 통합된 자아다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.96",
+                            "title": "Lesson 96",
+                            "paragraphNumber": 96,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Salvation comes from my one Self",
+                                "korean": "구원은 나의 통합된 자아로부터 온다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.97",
+                            "title": "Lesson 97",
+                            "paragraphNumber": 97,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am spirit",
+                                "korean": "나는 영이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.98",
+                            "title": "Lesson 98",
+                            "paragraphNumber": 98,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will accept my part in God's plan for salvation",
+                                "korean": "나는 신의 구원 계획 안에서의  내 역할을 받아들인다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.99",
+                            "title": "Lesson 99",
+                            "paragraphNumber": 99,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Salvation is my only function here",
+                                "korean": "구원은 이 세상에서의 내 유일한 역할이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.100",
+                            "title": "Lesson 100",
+                            "paragraphNumber": 100,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My part is essential to God's plan for salvation",
+                                "korean": "내 역할은 신의 구원 계획에서 필수적인 부분이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.101",
+                            "title": "Lesson 101",
+                            "paragraphNumber": 101,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God's Will for me is perfect happiness",
+                                "korean": "신의 의지는 나의 완전한 행복이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.102",
+                            "title": "Lesson 102",
+                            "paragraphNumber": 102,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I share God's Will for happiness for me",
+                                "korean": "나는 나의 행복을 위한 신의 의지를 함께 나눈다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.103",
+                            "title": "Lesson 103",
+                            "paragraphNumber": 103,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God, being Love, is also happiness",
+                                "korean": "신은 사랑 그 자체로써 또한 행복이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.104",
+                            "title": "Lesson 104",
+                            "paragraphNumber": 104,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I seek but what belongs to me in truth",
+                                "korean": "나는 진리 안에서 나에게 속한 것만을 구한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.105",
+                            "title": "Lesson 105",
+                            "paragraphNumber": 105,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God's peace and joy are mine",
+                                "korean": "신의 평화와 기쁨이 내 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.106",
+                            "title": "Lesson 106",
+                            "paragraphNumber": 106,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me be still and listen to the truth",
+                                "korean": "저로 하여금 고요히 진리에 귀 기울이게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.107",
+                            "title": "Lesson 107",
+                            "paragraphNumber": 107,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Truth will correct all errors in my mind",
+                                "korean": "진리가 내 정신의 모든 오류를 바로잡을 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.108",
+                            "title": "Lesson 108",
+                            "paragraphNumber": 108,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "To give and to receive are one in truth",
+                                "korean": "진리 안에서 주는 것과 받는 것은 같은 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.109",
+                            "title": "Lesson 109",
+                            "paragraphNumber": 109,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I rest in God",
+                                "korean": "나는 신 안에서 안식한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.110",
+                            "title": "Lesson 110",
+                            "paragraphNumber": 110,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am as God created me.",
+                                "korean": "나는 신이 창조하신 그대로다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.121",
+                            "title": "Lesson 121",
+                            "paragraphNumber": 121,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness is the key to happiness",
+                                "korean": "용서는 행복의 열쇠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.122",
+                            "title": "Lesson 122",
+                            "paragraphNumber": 122,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness offers everything I want",
+                                "korean": "용서는 내가 원하는 모든 것을 제공한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.123",
+                            "title": "Lesson 123",
+                            "paragraphNumber": 123,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I thank my Father for His gifts to me",
+                                "korean": "나는 내 아버지께서 주신 선물에 감사한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.124",
+                            "title": "Lesson 124",
+                            "paragraphNumber": 124,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me remember I am one with God",
+                                "korean": "제가 신과 함께 하나임을 기억하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.125",
+                            "title": "Lesson 125",
+                            "paragraphNumber": 125,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "In quiet I receive God's Word today",
+                                "korean": "잠잠히 나는 오늘 신의 말씀을 수신한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.126",
+                            "title": "Lesson 126",
+                            "paragraphNumber": 126,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All that I give is given to myself",
+                                "korean": "내가 주는 것은 모두 나 자신에게 주는 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.127",
+                            "title": "Lesson 127",
+                            "paragraphNumber": 127,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no love but God's",
+                                "korean": "오직 신의 사랑 외에 다른 사랑은 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.128",
+                            "title": "Lesson 128",
+                            "paragraphNumber": 128,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The world I see holds nothing that I want.",
+                                "korean": "내가 보는 세상은 내가 원하는 것을 갖고 있지 않다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.129",
+                            "title": "Lesson 129",
+                            "paragraphNumber": 129,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Beyond this world there is a world I want",
+                                "korean": "이 세상을 초월한 곳에 내가 원하는 세상이 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.130",
+                            "title": "Lesson 130",
+                            "paragraphNumber": 130,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "It is impossible to see two worlds",
+                                "korean": "두 세상을 같이 보는 것은 불가능하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.131",
+                            "title": "Lesson 131",
+                            "paragraphNumber": 131,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "No one can fail who seeks to reach the truth",
+                                "korean": "진리에 닫고자 구하는 자는 아무도 실패할 수 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.132",
+                            "title": "Lesson 132",
+                            "paragraphNumber": 132,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I loose the world from all I thought it was",
+                                "korean": "나는 세상을 내 모든 생각으로부터 놓아준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.133",
+                            "title": "Lesson 133",
+                            "paragraphNumber": 133,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will not value what is valueless",
+                                "korean": "나는 무가치한 것에 가치를 부여하지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.134",
+                            "title": "Lesson 134",
+                            "paragraphNumber": 134,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me perceive forgiveness as it is",
+                                "korean": "저로 하여금 용서를 그 자체로 지각하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.135",
+                            "title": "Lesson 135",
+                            "paragraphNumber": 135,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "If I defend myself I am attacked",
+                                "korean": "내가 자신을 방어한다면, 나는 공격당한 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.136",
+                            "title": "Lesson 136",
+                            "paragraphNumber": 136,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Sickness is a defense against the truth",
+                                "korean": "질병은 진리에 대항하는 방어다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.137",
+                            "title": "Lesson 137",
+                            "paragraphNumber": 137,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "When I am healed I am not healed alone",
+                                "korean": "내가 치유될 때 나는 혼자 치유되지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.138",
+                            "title": "Lesson 138",
+                            "paragraphNumber": 138,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Heaven is the decision I must make",
+                                "korean": "천국은 내가 결심해야만 그것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.139",
+                            "title": "Lesson 139",
+                            "paragraphNumber": 139,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will accept Atonement for myself",
+                                "korean": "나는 나 자신을 위한 속죄를 받아들이겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.140",
+                            "title": "Lesson 140",
+                            "paragraphNumber": 140,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Only salvation can be said to cure",
+                                "korean": "오직 구원을 통해서만 치유를 말할 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.151",
+                            "title": "Lesson 151",
+                            "paragraphNumber": 151,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All things are echoes of the Voice for God",
+                                "korean": "모든 것은 신을 향한 음성의 메아리다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.152",
+                            "title": "Lesson 152",
+                            "paragraphNumber": 152,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The power of decision is my own",
+                                "korean": "결심의 힘은 나 자신만의 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.153",
+                            "title": "Lesson 153",
+                            "paragraphNumber": 153,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "In my defenselessness my safety lies",
+                                "korean": "나의 방어하지 않음에 나의 안전이 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.154",
+                            "title": "Lesson 154",
+                            "paragraphNumber": 154,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am among the ministers of God",
+                                "korean": "나는 신의 성직자들 중에 하나다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.155",
+                            "title": "Lesson 155",
+                            "paragraphNumber": 155,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will step back and let Him lead the way",
+                                "korean": "나는 한 발 물러나 그가 길을 인도하시도록 하겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.156",
+                            "title": "Lesson 156",
+                            "paragraphNumber": 156,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I walk with God in perfect holiness",
+                                "korean": "나는 신과 함께 완전한 거룩함 속에 걷는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.157",
+                            "title": "Lesson 157",
+                            "paragraphNumber": 157,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Into His Presence would I enter now",
+                                "korean": "그의 임재하심 속으로 나는 지금 들어간다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.158",
+                            "title": "Lesson 158",
+                            "paragraphNumber": 158,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today I learn to give as I receive",
+                                "korean": "오늘 나는 받은 대로 주는 것을 배운다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.159",
+                            "title": "Lesson 159",
+                            "paragraphNumber": 159,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I give the miracles I have received",
+                                "korean": "나는 내가 받은 기적들을 준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.160",
+                            "title": "Lesson 160",
+                            "paragraphNumber": 160,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am at home. Fear is the stranger here",
+                                "korean": "나는 고향 집에 있다. 두려움은 여기서 이방인이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.161",
+                            "title": "Lesson 161",
+                            "paragraphNumber": 161,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Give me your blessing, holy Son of God",
+                                "korean": "축복을 내려 주소서, 거룩한 신의 아들이여."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.162",
+                            "title": "Lesson 162",
+                            "paragraphNumber": 162,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am as God created me..",
+                                "korean": "나는 신이 창조하신 그대로다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.163",
+                            "title": "Lesson 163",
+                            "paragraphNumber": 163,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no death. The Son of God is free",
+                                "korean": "죽음은 존재하지 않는다. 신의 아들은 자유다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.164",
+                            "title": "Lesson 164",
+                            "paragraphNumber": 164,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Now are we one with Him Who is our Source",
+                                "korean": "지금 우리는 근원이신 그와 하나다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.165",
+                            "title": "Lesson 165",
+                            "paragraphNumber": 165,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let not my mind deny the Thought of God",
+                                "korean": "내 정신이 신의 생각을 부정하지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.166",
+                            "title": "Lesson 166",
+                            "paragraphNumber": 166,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am entrusted with the gifts of God",
+                                "korean": "나에게 신의 선물이 맡겨져 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.167",
+                            "title": "Lesson 167",
+                            "paragraphNumber": 167,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is one life, and that I share with God",
+                                "korean": "생명은 하나뿐이고 그것을 나는 신과 공유한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.168",
+                            "title": "Lesson 168",
+                            "paragraphNumber": 168,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Your grace is given me. I claim it now",
+                                "korean": "당신의 은혜는 제게 주어집니다. 지금 그것을 청합니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.169",
+                            "title": "Lesson 169",
+                            "paragraphNumber": 169,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "By grace I live. By grace I am released",
+                                "korean": "은혜에 의해 내가 살고, 은혜로 인해 내가 해방된다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.170",
+                            "title": "Lesson 170",
+                            "paragraphNumber": 170,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no cruelty in God and none in me",
+                                "korean": "신 안에는 잔인함이 없으며 내 안에도 그렇다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.181",
+                            "title": "Lesson 181",
+                            "paragraphNumber": 181,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I trust my brothers, who are one with me",
+                                "korean": "나는 나와 동등한 형제들을 신뢰한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.182",
+                            "title": "Lesson 182",
+                            "paragraphNumber": 182,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will be still an instant and go home",
+                                "korean": "나는 일순간 잠잠해짐으로써 고향 집에 들어간다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.183",
+                            "title": "Lesson 183",
+                            "paragraphNumber": 183,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I call upon God's Name and on my own",
+                                "korean": "나는 신 이름을 부르고 나의 이름을 부른다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.184",
+                            "title": "Lesson 184",
+                            "paragraphNumber": 184,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The Name of God is my inheritance",
+                                "korean": "신의 이름이 나의 유산이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.185",
+                            "title": "Lesson 185",
+                            "paragraphNumber": 185,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I want the peace of God",
+                                "korean": "나는 신의 평화를 원한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.186",
+                            "title": "Lesson 186",
+                            "paragraphNumber": 186,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Salvation of the world depends on me",
+                                "korean": "세상의 구원이 내게 달려있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.187",
+                            "title": "Lesson 187",
+                            "paragraphNumber": 187,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I bless the world because I bless myself",
+                                "korean": "내가 세상을 축복하는 것은 나 자신을 축복하기 때문이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.188",
+                            "title": "Lesson 188",
+                            "paragraphNumber": 188,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The peace of God is shining in me now",
+                                "korean": "신의 평화가 지금 내 안에서 빛나고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.189",
+                            "title": "Lesson 189",
+                            "paragraphNumber": 189,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I feel the Love of God within me now",
+                                "korean": "나는 지금 내 안에서 신의 사랑을 느끼고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.190",
+                            "title": "Lesson 190",
+                            "paragraphNumber": 190,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I choose the joy of God instead of pain",
+                                "korean": "나는 신의 기쁨을 고통 대신 선택한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.191",
+                            "title": "Lesson 191",
+                            "paragraphNumber": 191,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am the holy Son of God Himself",
+                                "korean": "나는 신의 거룩한 아들 그 자신이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.192",
+                            "title": "Lesson 192",
+                            "paragraphNumber": 192,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have a function God would have me fill",
+                                "korean": "나는 신이 완수하기를 바라는 역할을 가지고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.193",
+                            "title": "Lesson 193",
+                            "paragraphNumber": 193,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All things are lessons God would have me learn",
+                                "korean": "모든 것은 내가 배워야 할 신의 교훈들이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.194",
+                            "title": "Lesson 194",
+                            "paragraphNumber": 194,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I place the future in the Hands of God",
+                                "korean": "나는 미래를 신의 손에 맡긴다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.195",
+                            "title": "Lesson 195",
+                            "paragraphNumber": 195,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Love is the way I walk in gratitude",
+                                "korean": "사랑은 내가 감사 속에 걷는 길이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.196",
+                            "title": "Lesson 196",
+                            "paragraphNumber": 196,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "It can be but myself I crucify",
+                                "korean": "오직 나 자신만을 나를 십자가에 못 박을 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.197",
+                            "title": "Lesson 197",
+                            "paragraphNumber": 197,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "It can be but my gratitude I earn",
+                                "korean": "오직 내 감사만이 내가 얻을 수 있는 이득이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.198",
+                            "title": "Lesson 198",
+                            "paragraphNumber": 198,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Only my condemnation injures me",
+                                "korean": "오직 내 정죄함만이 나를 상처 입힌다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.199",
+                            "title": "Lesson 199",
+                            "paragraphNumber": 199,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am not a body, I am free",
+                                "korean": "나는 육체가 아니므로 나는 자유다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.200",
+                            "title": "Lesson 200",
+                            "paragraphNumber": 200,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no peace except the peace of God",
+                                "korean": "신의 평화 외에 다른 평화는 존재하지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.221",
+                            "title": "Lesson 221",
+                            "paragraphNumber": 221,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Peace to my mind. Let all my thoughts be still",
+                                "korean": "내 정신에 평화를. 저의 모든 생각들이 잠잠케 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.222",
+                            "title": "Lesson 222",
+                            "paragraphNumber": 222,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is with me. I live and move in Him",
+                                "korean": "신이 나와 함께 계신다. 나는 신 안에서 살고 움직인다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.223",
+                            "title": "Lesson 223",
+                            "paragraphNumber": 223,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my life. I have no life but His",
+                                "korean": "신은 나의 생명이다. 나는 오직 신의 생명만 가지고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.224",
+                            "title": "Lesson 224",
+                            "paragraphNumber": 224,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my Father, and He loves His Son",
+                                "korean": "신은 나의 아버지이며, 아버지는 그 아들을 사랑한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.225",
+                            "title": "Lesson 225",
+                            "paragraphNumber": 225,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my Father, and His Son loves Him",
+                                "korean": "신은 나의 아버지이며, 그 아들은 아버지를 사랑한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.226",
+                            "title": "Lesson 226",
+                            "paragraphNumber": 226,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My home awaits me. I will hasten there",
+                                "korean": "나의 고향이 나를 기다린다. 나는 서둘러 거기에 가겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.227",
+                            "title": "Lesson 227",
+                            "paragraphNumber": 227,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This is my holy instant of release",
+                                "korean": "지금은 내가 해방되는 거룩한 순간이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.228",
+                            "title": "Lesson 228",
+                            "paragraphNumber": 228,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God has condemned me not. No more do I",
+                                "korean": "신은 나를 정죄하지 않는다. 나도 더 이상 그렇게 하지 않는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.229",
+                            "title": "Lesson 229",
+                            "paragraphNumber": 229,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Love, which created me, is what I am",
+                                "korean": "사랑이 나를 창조했고, 그것이 나다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.230",
+                            "title": "Lesson 230",
+                            "paragraphNumber": 230,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Now will I seek and find the peace of God",
+                                "korean": "지금 나는 신의 평화를 구하고 발견하리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.231",
+                            "title": "Lesson 231",
+                            "paragraphNumber": 231,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Father, I will but to remember You",
+                                "korean": "아버지, 저는 당신 기억할 의지만을 냅니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.232",
+                            "title": "Lesson 232",
+                            "paragraphNumber": 232,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Be in my mind, my Father, through the day",
+                                "korean": "제 정신 안에 머무소서, 아버지, 오늘 하루 내내."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.233",
+                            "title": "Lesson 233",
+                            "paragraphNumber": 233,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I give my life to God to guide today",
+                                "korean": "나는 내 삶을 신께 바쳐 오늘을 안내받는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.234",
+                            "title": "Lesson 234",
+                            "paragraphNumber": 234,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Father, today I am Your Son again",
+                                "korean": "아버지, 오늘 저는 다시 당신의 아들이 됩니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.235",
+                            "title": "Lesson 235",
+                            "paragraphNumber": 235,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God in His mercy wills that I be saved",
+                                "korean": "신은 그의 자비 안에서 나를 구원할 의지를 가지고 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.236",
+                            "title": "Lesson 236",
+                            "paragraphNumber": 236,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I rule my mind, which I alone must rule",
+                                "korean": "나는 내 정신을 통치하며, 오직 나만이 통치해야 한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.237",
+                            "title": "Lesson 237",
+                            "paragraphNumber": 237,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Now would I be as God created me",
+                                "korean": "지금 나는 신이 창조하신 모습 그대로 존재하리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.238",
+                            "title": "Lesson 238",
+                            "paragraphNumber": 238,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "On my decision all salvation rests",
+                                "korean": "내 결정에 구원 전체가 달려있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.239",
+                            "title": "Lesson 239",
+                            "paragraphNumber": 239,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The glory of my Father is my own",
+                                "korean": "내 아버지의 영광이 나의 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.240",
+                            "title": "Lesson 240",
+                            "paragraphNumber": 240,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Fear is not justified in any form",
+                                "korean": "두려움은 어떤 형상으로도 정당화 될 수 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.241",
+                            "title": "Lesson 241",
+                            "paragraphNumber": 241,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This holy instant is salvation come",
+                                "korean": "이 거룩한 순간에 구원이 온다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.242",
+                            "title": "Lesson 242",
+                            "paragraphNumber": 242,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This day is God's. It is my gift to Him",
+                                "korean": "오늘은 신의 날이다. 이것이 내가 그에게 드리는 선물이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.243",
+                            "title": "Lesson 243",
+                            "paragraphNumber": 243,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today I will judge nothing that occurs",
+                                "korean": "오늘 나는 일어나는 아무 일도 비판하지 않겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.244",
+                            "title": "Lesson 244",
+                            "paragraphNumber": 244,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am in danger nowhere in the world",
+                                "korean": "나는 이 세상 어디에서도 위험하지 않다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.245",
+                            "title": "Lesson 245",
+                            "paragraphNumber": 245,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Your peace is with me, Father. I am safe",
+                                "korean": "당신의 평화가 나와 함께 하니, 아버지. 저는 안전합니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.246",
+                            "title": "Lesson 246",
+                            "paragraphNumber": 246,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "To love my Father is to love His Son",
+                                "korean": "아버지를 사랑하는 것은 곧 그의 아들을 사랑하는 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.247",
+                            "title": "Lesson 247",
+                            "paragraphNumber": 247,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Without forgiveness I will still be blind",
+                                "korean": "용서 없이는 나는 계속 장님 상태일 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.248",
+                            "title": "Lesson 248",
+                            "paragraphNumber": 248,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Whatever suffers is not part of me",
+                                "korean": "고통은 무엇이든 내 일부가 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.249",
+                            "title": "Lesson 249",
+                            "paragraphNumber": 249,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness ends all suffering and loss",
+                                "korean": "용서는 모든 고통과 상실을 끝낸다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.250",
+                            "title": "Lesson 250",
+                            "paragraphNumber": 250,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me not see myself as limited",
+                                "korean": "저 자신의 한계를 스스로 보지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.251",
+                            "title": "Lesson 251",
+                            "paragraphNumber": 251,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am in need of nothing but the truth",
+                                "korean": "나는 아무것도 필요치 않고 오직 진리만이 필요하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.252",
+                            "title": "Lesson 252",
+                            "paragraphNumber": 252,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The Son of God is my Identity",
+                                "korean": "신의 아들이 나의 정체성이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.253",
+                            "title": "Lesson 253",
+                            "paragraphNumber": 253,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My Self is ruler of the universe",
+                                "korean": "나의 자아는 우주의 지배자다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.254",
+                            "title": "Lesson 254",
+                            "paragraphNumber": 254,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let every voice but God's be still in me",
+                                "korean": "신의 음성 외의 다른 모든 음성은 내 안에서 고요하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.255",
+                            "title": "Lesson 255",
+                            "paragraphNumber": 255,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This day I choose to spend in perfect peace",
+                                "korean": "오늘 나는 완벽한 평화 속에 보내기로 선택한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.256",
+                            "title": "Lesson 256",
+                            "paragraphNumber": 256,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is the only goal I have today",
+                                "korean": "신이 오늘 나의 유일한 목표다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.257",
+                            "title": "Lesson 257",
+                            "paragraphNumber": 257,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me remember what my purpose is",
+                                "korean": "저의 목적이 무엇인지 기억하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.258",
+                            "title": "Lesson 258",
+                            "paragraphNumber": 258,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me remember that my goal is God",
+                                "korean": "저의 목표가 신이라는 것을 기억하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.259",
+                            "title": "Lesson 259",
+                            "paragraphNumber": 259,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me remember that there is no sin",
+                                "korean": "죄가 존재하지 않음을 기억하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.260",
+                            "title": "Lesson 260",
+                            "paragraphNumber": 260,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me remember God created me",
+                                "korean": "신이 저를 창조하셨음을 기억하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.261",
+                            "title": "Lesson 261",
+                            "paragraphNumber": 261,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God is my refuge and security",
+                                "korean": "신은 나의 피난처이자 안심이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.262",
+                            "title": "Lesson 262",
+                            "paragraphNumber": 262,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me perceive no differences today",
+                                "korean": "제가 오늘 차이점들을 지각하지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.263",
+                            "title": "Lesson 263",
+                            "paragraphNumber": 263,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holy vision sees all things as pure",
+                                "korean": "내 거룩한 비전은 모든 것을 순수한 것으로 본다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.264",
+                            "title": "Lesson 264",
+                            "paragraphNumber": 264,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am surrounded by the Love of God",
+                                "korean": "나는 신의 사랑에 둘러싸여 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.265",
+                            "title": "Lesson 265",
+                            "paragraphNumber": 265,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Creation's gentleness is all I see",
+                                "korean": "피조물의 부드러움이 내가 보는 모든 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.266",
+                            "title": "Lesson 266",
+                            "paragraphNumber": 266,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holy Self abides in you, God's Son",
+                                "korean": "신의 아들이여, 당신 안에 나의 거룩한 자아가 있습니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.267",
+                            "title": "Lesson 267",
+                            "paragraphNumber": 267,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My heart is beating in the peace of God",
+                                "korean": "내 가슴은 신의 평화 속에서 뛴다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.268",
+                            "title": "Lesson 268",
+                            "paragraphNumber": 268,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let all things be exactly as they are",
+                                "korean": "모든 것이 정확하게 있는 그대로 존재하게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.269",
+                            "title": "Lesson 269",
+                            "paragraphNumber": 269,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My sight goes forth to look upon Christ's face",
+                                "korean": "내 시야를 앞으로 향하게 하여 그리스도의 얼굴을 바라보리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.270",
+                            "title": "Lesson 270",
+                            "paragraphNumber": 270,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will not use the body's eyes today",
+                                "korean": "나는 오늘 육체의 눈을 사용하지 않으리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.271",
+                            "title": "Lesson 271",
+                            "paragraphNumber": 271,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Christ's is the vision I will use today",
+                                "korean": "그리스도의 비전을 나는 오늘 사용하리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.272",
+                            "title": "Lesson 272",
+                            "paragraphNumber": 272,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "How can illusions satisfy God's Son?",
+                                "korean": "환영이 어찌 신의 아들에게 만족을 줄 수 있는가?"
+                            }
+                        },
+                        {
+                            "id": "miracle.1.273",
+                            "title": "Lesson 273",
+                            "paragraphNumber": 273,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The stillness of the peace of God is mine",
+                                "korean": "신의 평화의 고요함이 내 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.274",
+                            "title": "Lesson 274",
+                            "paragraphNumber": 274,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today belongs to love. Let me not fear",
+                                "korean": "오늘은 사랑에 속한 날이다. 제가 두려워하지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.275",
+                            "title": "Lesson 275",
+                            "paragraphNumber": 275,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God's healing Voice protects all things today",
+                                "korean": "신의 치유의 음성이 오늘 모든 것을 보호한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.276",
+                            "title": "Lesson 276",
+                            "paragraphNumber": 276,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The Word of God is given me to speak",
+                                "korean": "신의 말씀이 내게 주어져 나는 그것을 말한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.277",
+                            "title": "Lesson 277",
+                            "paragraphNumber": 277,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me not bind Your Son with laws I made",
+                                "korean": "제가 당신의 아들을 제가 만든 법으로 속박하지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.278",
+                            "title": "Lesson 278",
+                            "paragraphNumber": 278,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "If I am bound, my Father is not free",
+                                "korean": "내가 만약 속박된다면, 아버지도 자유롭지 못하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.279",
+                            "title": "Lesson 279",
+                            "paragraphNumber": 279,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Creation's freedom promises my own",
+                                "korean": "피조물의 자유가 나 자신의 것을 약속해준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.280",
+                            "title": "Lesson 280",
+                            "paragraphNumber": 280,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "What limits can I lay upon God's Son",
+                                "korean": "신의 아들에게 내가 어떤 한계를 지울 수 있겠는가?"
+                            }
+                        },
+                        {
+                            "id": "miracle.1.281",
+                            "title": "Lesson 281",
+                            "paragraphNumber": 281,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can be hurt by nothing but my thoughts",
+                                "korean": "나는 단지 내 생각들에 의해서만 상처받을 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.282",
+                            "title": "Lesson 282",
+                            "paragraphNumber": 282,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will not be afraid of love today",
+                                "korean": "나는 오늘 사랑을 두려워하지 않겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.283",
+                            "title": "Lesson 283",
+                            "paragraphNumber": 283,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My true Identity abides in You",
+                                "korean": "저의 진정한 정체성은 당신 안에 있습니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.284",
+                            "title": "Lesson 284",
+                            "paragraphNumber": 284,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can elect to change all thoughts that hurt",
+                                "korean": "나는 상처를 주는 모든 생각들을 바꾸기로 선택할 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.285",
+                            "title": "Lesson 285",
+                            "paragraphNumber": 285,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My holiness shines bright and clear today",
+                                "korean": "나의 거룩함이 오늘 밝고 명료하게 빛난다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.286",
+                            "title": "Lesson 286",
+                            "paragraphNumber": 286,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The hush of Heaven holds my heart today",
+                                "korean": "천국의 고요가 오늘 내 가슴을 사로잡는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.287",
+                            "title": "Lesson 287",
+                            "paragraphNumber": 287,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "You are my goal, my Father. Only You",
+                                "korean": "당신이 저의 목표입니다, 아버지. 오직 당신입니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.288",
+                            "title": "Lesson 288",
+                            "paragraphNumber": 288,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let me forget my brother's past today",
+                                "korean": "제가 형제의 과거를 오늘 잊게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.289",
+                            "title": "Lesson 289",
+                            "paragraphNumber": 289,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The past is over. It can touch me not",
+                                "korean": "과거는 끝났다. 그것은 나를 건드릴 수 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.290",
+                            "title": "Lesson 290",
+                            "paragraphNumber": 290,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My present happiness is all I see",
+                                "korean": "내 현재의 행복이 내가 보는 모든 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.291",
+                            "title": "Lesson 291",
+                            "paragraphNumber": 291,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This is a day of stillness and of peace",
+                                "korean": "오늘은 고요함과 평화의 날이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.292",
+                            "title": "Lesson 292",
+                            "paragraphNumber": 292,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "A happy outcome to all things is sure",
+                                "korean": "모든 일에 행복한 결과가 올 것은 확실하다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.293",
+                            "title": "Lesson 293",
+                            "paragraphNumber": 293,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All fear is past and only love is here",
+                                "korean": "모든 두려움이 지나갔고, 오직 사랑만이 여기에 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.294",
+                            "title": "Lesson 294",
+                            "paragraphNumber": 294,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My body is a wholly neutral thing",
+                                "korean": "내 육체는 전적으로 중립적인 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.295",
+                            "title": "Lesson 295",
+                            "paragraphNumber": 295,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The Holy Spirit looks through me today",
+                                "korean": "성령이 오늘 나를 통해 본다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.296",
+                            "title": "Lesson 296",
+                            "paragraphNumber": 296,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The Holy Spirit speaks through me today",
+                                "korean": "성령이 오늘 나를 통해 말한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.297",
+                            "title": "Lesson 297",
+                            "paragraphNumber": 297,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness is the only gift I give",
+                                "korean": "용서가 내가 주는 유일한 선물이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.298",
+                            "title": "Lesson 298",
+                            "paragraphNumber": 298,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I love You, Father, and I love Your Son",
+                                "korean": "저는 당신을 사랑합니다, 아버지 그리고 당신의 아들도 사랑합니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.299",
+                            "title": "Lesson 299",
+                            "paragraphNumber": 299,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Eternal holiness abides in me",
+                                "korean": "영원한 거룩함이 내 안에 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.300",
+                            "title": "Lesson 300",
+                            "paragraphNumber": 300,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Only an instant does this world endure",
+                                "korean": "오직 한 순간만이 세상이 견디는 시간이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.301",
+                            "title": "Lesson 301",
+                            "paragraphNumber": 301,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "And God Himself shall wipe away all tears",
+                                "korean": "그러면 신 자신께서 모든 눈물들을 닦아 주시리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.302",
+                            "title": "Lesson 302",
+                            "paragraphNumber": 302,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Where darkness was I look upon the light",
+                                "korean": "어둠이 있던 곳에 나는 빛을 바라보리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.303",
+                            "title": "Lesson 303",
+                            "paragraphNumber": 303,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The holy Christ is born in me today",
+                                "korean": "거룩한 그리스도가 오늘 내 안에 태어나리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.304",
+                            "title": "Lesson 304",
+                            "paragraphNumber": 304,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Let not my world obscure the sight of Christ",
+                                "korean": "제 세상이 그리스도의 시야를 흐리지 않게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.305",
+                            "title": "Lesson 305",
+                            "paragraphNumber": 305,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is a peace that Christ bestows on us",
+                                "korean": "그리스도가 우리에게 선사하는 평화가 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.306",
+                            "title": "Lesson 306",
+                            "paragraphNumber": 306,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "The gift of Christ is all I seek today",
+                                "korean": "그리스도의 선물이 오늘 내가 구하는 모든 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.307",
+                            "title": "Lesson 307",
+                            "paragraphNumber": 307,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Conflicting wishes cannot be my will",
+                                "korean": "충돌하는 소망들은 나의 의지가 될 수 없다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.308",
+                            "title": "Lesson 308",
+                            "paragraphNumber": 308,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This instant is the only time there is",
+                                "korean": "이 순간만이 존재하는 유일한 시간이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.309",
+                            "title": "Lesson 309",
+                            "paragraphNumber": 309,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will not fear to look within today",
+                                "korean": "나는 오늘 내면 들여다보기를 두려워하지 않으리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.310",
+                            "title": "Lesson 310",
+                            "paragraphNumber": 310,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "In fearlessness and love I spend today",
+                                "korean": "두려움 없이과 사랑 안에서 나는 오늘을 보낸다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.311",
+                            "title": "Lesson 311",
+                            "paragraphNumber": 311,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I judge all things as I would have them be",
+                                "korean": "내가 비판하는 모든 것들은 내가 그들에게 바라는 대로다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.312",
+                            "title": "Lesson 312",
+                            "paragraphNumber": 312,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I see all things as I would have them be",
+                                "korean": "내가 보는 모든 것들은 내가 그들에게 바라는 대로다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.313",
+                            "title": "Lesson 313",
+                            "paragraphNumber": 313,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Now let a new perception come to me",
+                                "korean": "이제 저에게 새로운 지각이 찾아오게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.314",
+                            "title": "Lesson 314",
+                            "paragraphNumber": 314,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I seek a future different from the past",
+                                "korean": "나는 과거와는 다른 미래를 구한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.315",
+                            "title": "Lesson 315",
+                            "paragraphNumber": 315,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All gifts my brothers give belong to me",
+                                "korean": "형제들이 주는 선물은 전부 나에게 속한 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.316",
+                            "title": "Lesson 316",
+                            "paragraphNumber": 316,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All gifts I give my brothers are my own",
+                                "korean": "내가 형제들에게 주는 선물은 전부 나 자신에게 준 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.317",
+                            "title": "Lesson 317",
+                            "paragraphNumber": 317,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I follow in the way appointed me",
+                                "korean": "나는 내게 예정된 길을 따른다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.318",
+                            "title": "Lesson 318",
+                            "paragraphNumber": 318,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "In me salvation's means and end are one",
+                                "korean": "내게 있어서 구원의 방식과 결과는 하나다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.319",
+                            "title": "Lesson 319",
+                            "paragraphNumber": 319,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I came for the salvation of the world",
+                                "korean": "나는 세상을 구원하기 위해 왔다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.320",
+                            "title": "Lesson 320",
+                            "paragraphNumber": 320,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My Father gives all power unto me",
+                                "korean": "내 아버지는 내게 모든 권능을 주신다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.321",
+                            "title": "Lesson 321",
+                            "paragraphNumber": 321,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Father, my freedom is in You alone",
+                                "korean": "아버지, 저의 자유는 오직 당신 안에만 있습니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.322",
+                            "title": "Lesson 322",
+                            "paragraphNumber": 322,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can give up but what was never real",
+                                "korean": "나는 결코 실제가 아니었던 것만을 포기할 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.323",
+                            "title": "Lesson 323",
+                            "paragraphNumber": 323,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I gladly make the \"sacrifice\" of fear",
+                                "korean": "나는 기꺼이 두려움을 “희생”한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.324",
+                            "title": "Lesson 324",
+                            "paragraphNumber": 324,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I merely follow, for I would not lead",
+                                "korean": "저는 이끌지 않기에, 그저 따라갑니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.325",
+                            "title": "Lesson 325",
+                            "paragraphNumber": 325,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "All things I think I see reflect ideas",
+                                "korean": "내가 본다고 생각하는 모든 것들은 아이디어들의 반영일 뿐이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.326",
+                            "title": "Lesson 326",
+                            "paragraphNumber": 326,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am forever an Effect of God",
+                                "korean": "나는 신의 영원한 효과다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.327",
+                            "title": "Lesson 327",
+                            "paragraphNumber": 327,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I need but call and You will answer me",
+                                "korean": "저는 그저 부르고 그러면 당신은 응답하실 것입니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.328",
+                            "title": "Lesson 328",
+                            "paragraphNumber": 328,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I choose the second place to gain the first",
+                                "korean": "내가 두 번째 자리를 선택하면 나는 첫번째를 얻을 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.329",
+                            "title": "Lesson 329",
+                            "paragraphNumber": 329,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have already chosen what You will",
+                                "korean": "저는 당신의 의지를 이미 선택했습니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.330",
+                            "title": "Lesson 330",
+                            "paragraphNumber": 330,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will not hurt myself again today",
+                                "korean": "나는 오늘 나 자신을 다시 상처주지 않겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.331",
+                            "title": "Lesson 331",
+                            "paragraphNumber": 331,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no conflict, for my will is Yours",
+                                "korean": "갈등은 없습니다. 저의 의지가 곧 당신의 그것이기 때문입니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.332",
+                            "title": "Lesson 332",
+                            "paragraphNumber": 332,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Fear binds the world. Forgiveness sets it free",
+                                "korean": "두려움은 세상을 속박한다. 용서는 세상을 해방시킨다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.333",
+                            "title": "Lesson 333",
+                            "paragraphNumber": 333,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness ends the dream of conflict here",
+                                "korean": "용서는 갈등의 꿈을 바로 여기서 끝낸다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.334",
+                            "title": "Lesson 334",
+                            "paragraphNumber": 334,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today I claim the gifts forgiveness gives",
+                                "korean": "오늘 나는 용서가 주는 선물을 요구한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.335",
+                            "title": "Lesson 335",
+                            "paragraphNumber": 335,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I choose to see my brother's sinlessness",
+                                "korean": "나는 내 형제의 죄 없음 보기를 선택한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.336",
+                            "title": "Lesson 336",
+                            "paragraphNumber": 336,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Forgiveness lets me know that minds are joined",
+                                "korean": "용서는 나에게 정신들이 결합되어 있음을 알려준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.337",
+                            "title": "Lesson 337",
+                            "paragraphNumber": 337,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My sinlessness protects me from all harm",
+                                "korean": "나의 죄 없음이 나를 모든 해로움에서 지켜준다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.338",
+                            "title": "Lesson 338",
+                            "paragraphNumber": 338,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am affected only by my thoughts",
+                                "korean": "나는 오직 내 생각들에 의해서만 영향 받는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.339",
+                            "title": "Lesson 339",
+                            "paragraphNumber": 339,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I will receive whatever I request",
+                                "korean": "내가 요청하는 것은 무엇이든 나는 받는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.340",
+                            "title": "Lesson 340",
+                            "paragraphNumber": 340,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can be free of suffering today",
+                                "korean": "나는 괴로움에서 오늘 자유로워질 수 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.341",
+                            "title": "Lesson 341",
+                            "paragraphNumber": 341,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I can attack but my own sinlessness, And it is only that which keeps me safe.",
+                                "korean": "나는 다만 나 자신의 죄 없음만을 공격할 수 있다. 그리고 나를 안전하게 지켜주는 것은 오직 나의 죄 없음뿐이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.342",
+                            "title": "Lesson 342",
+                            "paragraphNumber": 342,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I let forgiveness rest upon all things, For thus forgiveness will be given me.",
+                                "korean": "나는 모든 것에 위에 용서를 내려준다. 그것으로 나에게도 용서가 주어지리라."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.343",
+                            "title": "Lesson 343",
+                            "paragraphNumber": 343,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I am not asked to make a sacrifice, To find the mercy and the peace of God.",
+                                "korean": "신의 자비와 평화를 찾기 위해 어떤 희생이 나에게 요구되는 것은 아니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.344",
+                            "title": "Lesson 344",
+                            "paragraphNumber": 344,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today I learn the law of love; that what I give my brother is my gift to me.",
+                                "korean": "오늘 나는 사랑의 법칙을 배운다; 그것은 내가 형제에게 주는 것은 나 자신에게 주는 선물이라는."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.345",
+                            "title": "Lesson 345",
+                            "paragraphNumber": 345,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I offer only miracles today, For I would have them be returned to me.",
+                                "korean": "나는 오늘 오직 기적만을 제공한다. 그것이 나에게 돌아올 것을 알고 실천하기 때문이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.346",
+                            "title": "Lesson 346",
+                            "paragraphNumber": 346,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today the peace of God envelops me, And I forget all things except His Love.",
+                                "korean": "오늘 신의 평화가 나를 감싸고, 나는 그의 사랑 외에 모든 것을 잊는다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.347",
+                            "title": "Lesson 347",
+                            "paragraphNumber": 347,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Anger must come from judgment. Judgment is The weapon I would use against myself,",
+                                "korean": ""
+                            }
+                        },
+                        {
+                            "id": "miracle.1.348",
+                            "title": "Lesson 348",
+                            "paragraphNumber": 348,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "I have no cause for anger or for fear, For You surround me. And in every need That I perceive, Your grace suffices me.",
+                                "korean": "저는 분노나 두려움의 원인이 없습니다. 당신이 저를 감싸고 있기 때문입니다. 제가 지각하는 모든 결핍은, 당신의 은혜로 채워집니다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.349",
+                            "title": "Lesson 349",
+                            "paragraphNumber": 349,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Today I let Christ's vision look upon All things for me and judge them not, but give Each one a miracle of love instead.",
+                                "korean": "오늘 나는 그리스도의 비전이 나를 위해 모든 것을 바라보게 함으로써, 그것들을 비판하지 않고 대신 그 각각에게 사랑의 기적을 주겠다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.350",
+                            "title": "Lesson 350",
+                            "paragraphNumber": 350,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Miracles mirror God's eternal Love. To offer them is to remember Him, And through His memory to save the world.",
+                                "korean": "기적은 신의 영원한 사랑을 거울상이다. 기적을 제공하는 것은 신을 기억하는 것이며, 그에 대한 기억을 통해 세상을 구원한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.351",
+                            "title": "Lesson 351",
+                            "paragraphNumber": 351,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My sinless brother is my guide to peace. My sinful brother is my guide to pain. And which I choose to see I will behold.",
+                                "korean": "내 죄 없는 형제는 평화의 안내자고, 죄 있는 형제는 고통의 안내자다. 그리고 나는 내가 보기로 선택하는 것을 볼 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.352",
+                            "title": "Lesson 352",
+                            "paragraphNumber": 352,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Judgment and love are opposites. From one come all the sorrows of the world. But from the other comes the peace of God Himself.",
+                                "korean": "비판과 사랑은 서로 반대다. 비판에서는 세상 모든 슬픔이 오지만, 사랑에서는 신 자신의 평화가 온다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.353",
+                            "title": "Lesson 353",
+                            "paragraphNumber": 353,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "My eyes, my tongue, my hands, my feet today have but one purpose; To  be  given  Christ  to  use  to  bless  the  world  with miracles.",
+                                "korean": "나의 눈, 혀, 손, 발은 오늘 하나의 목적만 갖는다; 그리스도에게 바쳐져 기적으로 세상을 축복하기 위해 쓰인다는."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.354",
+                            "title": "Lesson 354",
+                            "paragraphNumber": 354,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "We stand together, Christ and I, in peace and certainty of purpose. And in Him is His Creator, as He is in me.",
+                                "korean": "우리, 그리스도와 나는 평화와 확실한 목적으로 함께 서 있다. 그리스도 안에 그의 창조주가 있듯이 내 안에 그가 있다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.355",
+                            "title": "Lesson 355",
+                            "paragraphNumber": 355,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "There is no end to all the peace and joy, And all the miracles that I will give, When I accept God's Word. Why not today?",
+                                "korean": "내가 신의 말씀을 받아들일 때, 내가 줄 모든 평화와 기쁨, 그리고 기적은 끝이 없다. 그게 오늘이 아닐 이유가 뭔가?"
+                            }
+                        },
+                        {
+                            "id": "miracle.1.356",
+                            "title": "Lesson 356",
+                            "paragraphNumber": 356,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Sickness is but another name for sin. Healing is but another name for God. The miracle is thus a call to Him.",
+                                "korean": "질병은 죄의 다른 이름일 뿐이며, 치유는 신의 다른 이름일 뿐이다. 따라서 기적은 신을 부르는 것이다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.357",
+                            "title": "Lesson 357",
+                            "paragraphNumber": 357,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Truth answers every call we make to God, Responding first with miracles, And then returning unto us to be itself.",
+                                "korean": "진리는 우리가 신을 부르는 모든 것에 응답한다. 처음엔 기적으로 응답하고, 그리고는 우리 위에 돌아와 진리 그 자체가 되게 한다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.358",
+                            "title": "Lesson 358",
+                            "paragraphNumber": 358,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "No call to God can be unheard nor left unanswered. And of this I can be sure; His answer is the one I really want.",
+                                "korean": "신을 향한 어떤 부름도 들려지지 않거나 응답 받지 못한 채 방치되지 않는다. 그러니 나는 확신한다; 그의 응답이 내가 진정으로 원하는 것임을."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.359",
+                            "title": "Lesson 359",
+                            "paragraphNumber": 359,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "God's answer is some form of peace. All pain is healed; All misery replaced with joy. All prison doors are opened. And all sin is understood as merely a mistake.",
+                                "korean": "신의 응답은 어떤 형태의 평화다. 모든 고통이 치유되고, 모든 불행이 기쁨으로 바뀐다. 모든 감옥문이 열리고, 모든 죄는 그저 실수에 불과한 것으로 이해된다."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.360",
+                            "title": "Lesson 360",
+                            "paragraphNumber": 360,
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "Peace be to me, the holy Son of God. Peace to my brother, who is one with me. Let all the world be blessed with peace through us.",
+                                "korean": "신의 거룩한 아들인 저를 평화롭게 하소서. 저와 하나인 제 형제에게도 평화를 주소서. 우리를 통해 온 세상이 평화의 축복을 받게 하소서."
+                            }
+                        },
+                        {
+                            "id": "miracle.1.361-365",
+                            "title": "Lesson 361-365",
+                            "paragraphNumber": "361-365",
+                            "chapterTitle": "Workbook Part I",
+                            "text": {
+                                "tibetan": "",
+                                "pronunciation": "",
+                                "english": "This holy instant would I give to You. Be You in charge. For I would follow You, certain that Your direction gives me peace.",
+                                "korean": "이 거룩한 순간을 당신께 드리니, 주관하소서. 당신의 방향이 제게 평화를 준다는 것을 확신하기에 당신을 따를 것입니다."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
