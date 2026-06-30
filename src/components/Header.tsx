@@ -1,6 +1,6 @@
 import { CSSProperties, ReactNode } from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpenText, ScrollText } from 'lucide-react';
+import { BookOpenText, LampDesk, ScrollText } from 'lucide-react';
 import { useUI } from '../context/UIContext';
 import { getDesktopVerseColumns } from './ui/desktopVerseLayout';
 
@@ -61,8 +61,8 @@ const Header = ({
             <div className="mx-auto w-full max-w-[1406px] px-4 py-2 sm:px-5 lg:hidden">
                 <div className="flex min-w-0 items-center gap-2 text-text-primary dark:text-dark-text-primary">
                     <Link to={targetUrl} className="group flex min-w-0 items-center gap-2 truncate">
-                        <span className="flex shrink-0 items-center justify-center opacity-90 transition-transform duration-700 group-hover:rotate-6">
-                            <img src="/favicon.png" className="h-4 w-4 sm:h-5 sm:w-5 object-contain" alt="" />
+                        <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
+                            <LampDesk className="h-4 w-4 sm:h-5 sm:w-5" />
                         </span>
                         <span className="min-w-0 truncate font-sans text-[14px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary sm:text-[15px] dark:text-dark-text-primary">
                             {title}
@@ -87,8 +87,8 @@ const Header = ({
             >
                 <div className="flex min-w-0 items-center gap-3 px-5">
                     <Link to={targetUrl} className="group flex min-w-0 items-center gap-2 truncate text-text-primary dark:text-dark-text-primary">
-                        <span className="flex shrink-0 items-center justify-center opacity-90 transition-transform duration-700 group-hover:rotate-6">
-                            <img src="/favicon.png" className="h-5 w-5 sm:h-5.5 sm:w-5.5 object-contain" alt="" />
+                        <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
+                            <LampDesk className="h-5 w-5 sm:h-5.5 sm:w-5.5" />
                         </span>
                         <span className="truncate font-sans text-[15px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary xl:text-[16px] dark:text-dark-text-primary">
                             {title}
