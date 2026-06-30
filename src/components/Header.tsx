@@ -64,7 +64,7 @@ const Header = ({
                         <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
                             <LampDesk className="h-4 w-4 sm:h-5 sm:w-5" />
                         </span>
-                        <span className="min-w-0 truncate font-display text-[14px] font-medium tracking-[0.02em] text-text-primary transition-colors group-hover:text-gold-primary sm:text-[15px] dark:text-dark-text-primary">
+                        <span className="min-w-0 truncate font-sans text-[14px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary sm:text-[15px] dark:text-dark-text-primary">
                             {title}
                         </span>
                     </Link>
@@ -90,7 +90,7 @@ const Header = ({
                         <span className="flex shrink-0 items-center justify-center text-gold-primary opacity-90 transition-transform duration-700 group-hover:rotate-6">
                             <LampDesk className="h-5 w-5" />
                         </span>
-                        <span className="truncate font-display text-[16px] font-medium tracking-[0.02em] text-text-primary transition-colors group-hover:text-gold-primary xl:text-[17px] dark:text-dark-text-primary">
+                        <span className="truncate font-sans text-[15px] font-semibold tracking-[0.01em] text-text-primary transition-colors group-hover:text-gold-primary xl:text-[16px] dark:text-dark-text-primary">
                             {title}
                         </span>
                     </Link>
