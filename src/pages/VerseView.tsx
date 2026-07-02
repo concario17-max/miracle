@@ -10,7 +10,7 @@ import { motion, AnimatePresence, Variants } from 'framer-motion';
 import { CommentaryMarkdown } from '../components/commentary/CommentaryMarkdown';
 import { MobileVerseGuide } from '../components/verse/MobileVerseGuide';
 
-const learningComicImages = import.meta.glob('../assets/learning-comic/*/*.png', {
+const learningComicImages = import.meta.glob('../assets/learning-comic/*/*.webp', {
     eager: true,
     import: 'default',
 }) as Record<string, string>;
@@ -23,7 +23,7 @@ type ComicEntry = {
 };
 
 const learningComicIndex = Object.entries(learningComicImages).reduce<Record<string, ComicEntry[]>>((acc, [path, url]) => {
-    const match = path.match(/learning-comic\/(?:chapter-)?(\d+)\/(.+)\.png$/);
+    const match = path.match(/learning-comic\/(?:chapter-)?(\d+)\/(.+)\.webp$/);
     if (!match) {
         return acc;
     }
